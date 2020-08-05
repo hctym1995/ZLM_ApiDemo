@@ -1,0 +1,11 @@
+﻿F:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Video_RTSP_ZLM.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  CZlmApiWorker.cpp
+E:\1.Code\6,Simple_ZLM_ApiDemo\ZLM_ApiDemo\CZlmApiWorker.cpp(11,9): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“mk_media_source”
+E:\1.Code\6,Simple_ZLM_ApiDemo\ZLM_ApiDemo\CZlmApiWorker.cpp(11,9): warning C4313: “printf”: 格式字符串中的“%x”与“mk_media_source”类型的参数 1 冲突
+E:\1.Code\6,Simple_ZLM_ApiDemo\ZLM_ApiDemo\CZlmApiWorker.cpp(18,24): error C2660: “CZLMWorker::ZLM_PusherStart”: 函数不接受 0 个参数
+E:\1.Code\6,Simple_ZLM_ApiDemo\ZLM_ApiDemo\CZlmApiWorker.h(33,7): message : 参见“CZLMWorker::ZLM_PusherStart”的声明
+E:\1.Code\6,Simple_ZLM_ApiDemo\ZLM_ApiDemo\CZlmApiWorker.h(40,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+  stdafx.cpp
+  main.cpp
+  正在生成代码...
