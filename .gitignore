@@ -24,6 +24,10 @@
 *.lai
 *.la
 *.a
+<<<<<<< HEAD
+=======
+*.lib
+>>>>>>> 6ca45028f5b06b0f92efe3f101facfa363404e94
 
 # Executables
 *.exe
