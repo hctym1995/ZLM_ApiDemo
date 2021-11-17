@@ -16,7 +16,7 @@
 
 # 关于ZLMediakit
 
-一个优秀而强大的流媒体服务器,所有的优秀都在下面的主页里,致敬作者,致敬开源
+一个优秀而强大的流媒体服务器,致敬作者,致敬开源
 
 <https://github.com/xia-chu/ZLMediaKit>
 
