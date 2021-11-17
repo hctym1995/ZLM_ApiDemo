@@ -1,8 +1,7 @@
 # ZLM_ApiDemo
 
 + 基于流媒体服务器ZLMediakit的c-api实现的拉流推流最简Demo(vs2019 vs2015)
-+ 没有linux demo的原因1:如果你需要linux的调用,所有的demo代码基本不用修改,然后链接linux对应的api库
-+ 没有linux demo的原因2:懒
++ 注:如果需要linux版,所有的demo代码基本不用修改,只需要下载ZLM的源码编译，按照linux下C++的开发流程链接并调用对应的api库
 + __记得阅读ZLM的wiki以及api头文件的代码注释__
 
 # 库文件(lib & dll)
